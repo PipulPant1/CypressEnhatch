@@ -1,0 +1,14 @@
+{
+  "name": "enhatch",
+  "version": "1.0.0",
+  "description": "automation framework for enhatch",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "automation team",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^9.4.1"
+  }
+}
